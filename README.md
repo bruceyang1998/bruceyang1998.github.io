@@ -1,4 +1,4 @@
 # Bruce Yang
-*Georgia Tech Aerospace Engineering 2021*
+[Georgia Tech](http://www.gatech.edu) [Aerospace Engineering](http://ae.gatech.edu) 2021
 
-*Aviation Enthusiast, Singer, Coxswain, Photographer*
+Aviation Enthusiast, Singer, Coxswain, Photographer
