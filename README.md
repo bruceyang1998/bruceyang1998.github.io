@@ -7,7 +7,7 @@
 
 # Projects
 
-## [Satellite Ground Station Integration, GT Space Systems Design Lab](https://ssdl.gatech.edu/)
+## [Satellite Ground Station Integration, GT Space Systems Design Lab](http://ssdl.gatech.edu/)
 WIP...
 
 ## [VATPRC ATIS Parser](https://github.com/bruceyang1998/vatprc-atis-parser)
