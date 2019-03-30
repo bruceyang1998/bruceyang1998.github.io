@@ -1,5 +1,5 @@
 # Zhenhao "Bruce" Yang
-[Georgia Tech](http://www.gatech.edu) [Aerospace Engineering](http://ae.gatech.edu) 2021
+[Georgia Tech](http://www.gatech.edu) [Electrical Engineering](http://ece.gatech.edu) 2021
 
 [Amateur Radio Operator](http://www.qrz.com/db/KN8U), Aviation Enthusiast, [Singer](http://chamberchoir.gatech.edu), [Photographer](http://photo.bruceyang.me)
 
