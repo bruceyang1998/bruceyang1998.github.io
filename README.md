@@ -5,6 +5,9 @@
 
 *[LinkedIn](https://www.linkedin.com/in/zhenhao-yang/)*
 
+# Ham Radio Projects
+Click [here](http://www.kn8u.xyz)
+
 # Projects
 
 ## [Satellite Ground Station Integration, GT Space Systems Design Lab](http://ssdl.gatech.edu/)
